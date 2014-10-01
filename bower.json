@@ -1,0 +1,27 @@
+{
+  "name": "ngListModule",
+  "version": "1.0.0",
+  "authors": [
+    "Scott Warren <scottwarren@ocom.com.au>"
+  ],
+  "description": "Angular List/Array/Table Directives",
+  "main": "ngListModule.js",
+  "keywords": [
+    "angular",
+    "array",
+    "list",
+    "directives",
+    "management"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.25"
+  }
+}
